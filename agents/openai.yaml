@@ -1,0 +1,4 @@
+interface:
+  display_name: "乙女生图 Prompt 工厂"
+  short_description: "从多张参考图提纯画风并生成可填写的乙女生图 Prompt"
+  default_prompt: "使用 $otome-template-skill-builder 分析这些参考图，生成包含不超过 5 个【变量】的可直接生图 Prompt。"
